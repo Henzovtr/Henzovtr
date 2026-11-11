@@ -11,15 +11,14 @@ Power. Ambition. Legacy.
 
 </div>
 
-🥀 01 — ABOUT ME
 yaml
-name: Your Name
+name: henzovtr
 occupation: Developer
 mindset: Ambitious
 mission: Build something extraordinary
 motto: The world is yours.
 
-⚔️ 02 — TECHNOLOGIES
+
 
 <div align="center">
 
@@ -27,17 +26,6 @@ motto: The world is yours.
 
 </div>
 
-🩸 03 — GITHUB STATISTICS
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&bg_color=090909&title_color=ff2020&icon_color=ff2020&text_color=ffffff&hide_border=true"/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&background=090909&ring=ff2020&fire=ff2020&currStreakLabel=ff2020&hide_border=true"/>
-
-</div>
-
-🔥 04 — PROJECTS
 
 <div align="center">
 
